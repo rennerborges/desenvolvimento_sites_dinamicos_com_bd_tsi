@@ -1,2 +1,12 @@
-# desenvolvimento_sites_dinamicos_com_bd_tsi
-Repositório para a disciplina do 5° período do TSI chamada desenvolvimento de sites dinâmicos com banco de dados
+<img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Instituto_Federal_Goiano_-_Marca_Vertical_2015.svg/800px-Instituto_Federal_Goiano_-_Marca_Vertical_2015.svg.png" width="250px">
+
+# Desenvolvimento de sites dinâmicos com banco de dados (DSDBD)  
+
+Conteúdo desenvolvido durante o 5° período na disciplina Desenvolvimento de sites dinâmicos com banco de dados (DSDBD) no curso de Tecnologia em Sistemas para internet pelo Instituto Federal Goiano - Campus Morrinhos. 
+
+
+## Autores
+
+- [@rennerborges](https://github.com/RennerBorges)
+
+
